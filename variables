@@ -1,0 +1,17 @@
+val myAge = 25
+
+var averageAge: Double = 25
+averageAge = myAge + 30 / 2
+
+val testNumber = 10
+val evenOdd = testNumber % 2
+if testNumber is even then evenOdd = 0
+if testNumber is odd then evenOdd = 1
+
+var answer = 0
+answer = answer + 1 
+answer = answer + 10
+answer = answer * 10
+answer shr(3)
+println(answer shr 3)
+//answer is 13
