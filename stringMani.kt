@@ -1,7 +1,7 @@
 fun main() {
     println("Please enter the name of your favorite city: ")
 
-    var city: String = readLine()!!
+    val city: String = readLine()!!
 
     println("Number of characters is: ${city.length}")
 
